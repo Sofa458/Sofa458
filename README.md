@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sofa458
-- 👀 I’m interested in biology and bioinfornatics
+- 👀 I’m interested in biology and bioinformatics
 - 🌱 I’m currently learning data-driven tools
 - 💞️ I’m looking to collaborate on bioinformatics progects
 - 📫 You can find me here sophiaverdieva@mail.ru
